@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Full and Comprehensive Style Test (HTML)
+title:  Post Reference (HTML)
 tags:
 - News
 - Tags
