@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Post Reference (HTML)
+categories: blog
 tags:
 - News
 - Tags

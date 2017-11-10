@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  My First iOS App (Learning iOS Development)
+categories: blog
 tags:
-- Blog
-- Post
 - iOS
 - Swift
 - Mobile Development

@@ -20,12 +20,11 @@ avatar: profile.png
 email: dominick.tunac@gmail.com
 github: nicktunac # username
 twitter: nicknyak
-#linkedin: username
+linkedin: dominick-tunac
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: nicktunac-github-io
 #google_analytics: UA-69391421-1
-
 
 # needed for travis-ci build
 exclude: [vendor]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Firebase Functions
+categories: event
 tags:
 - Blog
 - Post
