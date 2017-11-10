@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Hello World
+title:  Not Kwek Kwek! A "Not Hotdog" application clone 
 categories: blog
 tags:
-- Blog
-- Post
+- Tensorflow
+- Android
 ---
 
-<h1 id="heading1">Hello World!</h1>
+<h1 id="heading1">Not Kwek Kwek! A "Not Hotdog" application clone using tensorflow</h1>
 
 <hr />
 <p>Hi I'm <strong>Nick Tunac.</strong></p>
