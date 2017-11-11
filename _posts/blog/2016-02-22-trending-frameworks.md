@@ -1,19 +1,14 @@
 ---
 layout: post
-title:  Not Kwek Kwek! A "Not Hotdog" application clone 
+title:  Presentation; Trending Frameworks
 categories: blog
 tags:
-- Tensorflow
+- Frameworks
 - Android
 - Blog
 ---
 
-<h1 id="heading1">Not Kwek Kwek! A "Not Hotdog" application clone using tensorflow</h1>
-
-
-<p>Created a Not Hotdog clone, but using Kwek Kwek instead. Technologies used are: Tensorflow and Android</p>
-
-<p>Presented Not Kwek Kwek app in our Tech Talk Tuesday event</p>
+<h1 id="heading1">Invited as a resource speaker in our school. Talked about backend frameworks such as Spring, Ruby on Rails, Express and Laravel</h1>
 
 <img src="https://user-images.githubusercontent.com/7882308/32692456-4a4e8b32-c753-11e7-8933-31a38b44d866.jpg" height="500px">
 
