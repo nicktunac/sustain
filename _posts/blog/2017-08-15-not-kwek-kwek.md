@@ -11,7 +11,8 @@ tags:
 <h1 id="heading1">Not Kwek Kwek! A "Not Hotdog" application clone using tensorflow</h1>
 
 
-<p>Created a Not Hotdog clone, but using Kwek Kwek instead. Technologies used are: Tensorflow and Android</p>
+<p>Created a Not Hotdog clone, but using Kwek Kwek instead.</p>
+<p>Technologies used are: Tensorflow and Android</p>
 
 <p>Presented Not Kwek Kwek app in our Tech Talk Tuesday event</p>
 

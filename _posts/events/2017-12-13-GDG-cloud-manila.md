@@ -22,7 +22,7 @@ tags:
 <center>
 <img class="responsive" src="https://user-images.githubusercontent.com/7882308/34366338-3ec6e53e-ead5-11e7-9179-e0b4e14c3c65.jpg" width="500px" alt="Test Image" />
 
-<center>
+<hr />
 <img class="responsive" src="https://user-images.githubusercontent.com/7882308/34366340-404826d4-ead5-11e7-9740-02ab71f8926e.jpg" width="500px" alt="Test Image" />
 
 <hr/>
